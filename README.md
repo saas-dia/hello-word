@@ -1,4 +1,4 @@
 # hello-word
-Primer repositorio de paratodo
+Primer reposi paratodo
 
 Esto es un cambio ;-)
